@@ -1,4 +1,4 @@
-module github.com/codeedu/fc2-prometheus
+module github.com/batistondeoliveira/fullcycle-observabilidade-prometheus
 
 go 1.16
 
